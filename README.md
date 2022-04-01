@@ -62,7 +62,7 @@ If I had a few more hours to work on this project, I would spend them refactorin
 ## Interview Recording URL Link
 
 [My 5-minute Interview Recording] https://drive.google.com/file/d/1vCXheGTIVci127-UN2PCvMSkatO8FxcL/view?usp=sharing
-
+(will have to download to view)
 
 ## License
 
